@@ -46,7 +46,11 @@ Site institucional sobre metas sustentáveis de uma empresa fictícia.
 Desenvolvido para treinar estrutura semântica em HTML e design responsivo com CSS.
 
 ---
+# 👾 Stranger Things | Mundo Invertido
+Site inspirado no universo visual de **Stranger Things**, focado na troca de tema entre o **Mundo Normal** e o **Mundo Invertido**.
+Desenvolvido para treinar estrutura semântica em **HTML** e praticar **estilização responsiva com CSS**, além do uso de **variáveis CSS** para alterar o tema de forma suave.
 
+---
 ### 🧑‍💻 Desenvolvido por:
 **Duhzera**  
 > “Se Deus é por nós, quem será contra nós?” — Romanos 8:31
