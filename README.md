@@ -5,12 +5,6 @@ Cada projeto abaixo representa uma etapa da minha evolução como desenvolvedor 
 
 ---
 
-## 🃏 Yu-Gi-Oh | Jo-ken-po Edition
-Jogo de pedra, papel e tesoura inspirado em Yu-Gi-Oh.  
-Feito para praticar lógica de programação, organização de código e gerenciamento de estado manual.
-
----
-
 ## 🧩 Jogo da Memória com Emojis
 Um jogo simples e divertido usando emojis do Windows.  
 Treinei responsividade com CSS, eventos e manipulação do DOM com JavaScript.
@@ -46,7 +40,7 @@ Site institucional sobre metas sustentáveis de uma empresa fictícia.
 Desenvolvido para treinar estrutura semântica em HTML e design responsivo com CSS.
 
 ---
-# 👾 Stranger Things | Mundo Invertido
+## 👾 Stranger Things | Mundo Invertido
 Site inspirado no universo visual de **Stranger Things**, focado na troca de tema entre o **Mundo Normal** e o **Mundo Invertido**.
 Desenvolvido para treinar estrutura semântica em **HTML** e praticar **estilização responsiva com CSS**, além do uso de **variáveis CSS** para alterar o tema de forma suave.
 
